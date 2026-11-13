@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:\Tomcat 11.0\webapps\medicine">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/Tomcat 11.0/bin" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
